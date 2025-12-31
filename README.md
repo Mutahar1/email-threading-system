@@ -338,9 +338,9 @@ Created intuitive UI matching Email-to-Case experience:
 ## Related Projects
 
 Check out my other communication solutions:
-- [AI-Powered Case Summary](../ai-case-summary) - Einstein AI for case analysis
-- [Amazon Chime Integration](../amazon-chime-salesforce) - Video conferencing integration
-- [Pardot Integration](../pardot-salesforce-integration) - Marketing automation
+- [AI-Powered Case Summary](https://github.com/Mutahar1/agentforce-ai-case-summary) - Einstein AI for case analysis
+- [Amazon Chime Integration](https://github.com/Mutahar1/amazon-chime-salesforce) - Video conferencing integration
+- [Pardot Integration](https://github.com/Mutahar1/pardot-salesforce-integration) - Marketing automation
 
 ---
 
